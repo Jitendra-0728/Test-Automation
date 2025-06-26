@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6621946d-425d-491b-aa4c-77cb69f891ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2. Python Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/BrowserOperationDemo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/ChildWindowOperationDemo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/FindElementsDynamicDropdownFlightBookingDemo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/FramesDemo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/LocatorsExtensionSite2Demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/LocatorsExtensionSite2Demo3credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/LocatorsSite1Demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/LocatorsSite1Demo2credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/MiscallanousDemo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/MouseActionDemo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/Screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/SortingTableDemo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/UiControlsDemo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/WaitDemo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyhtonSelenium/e2eTesingShopDemo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/PytestDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/BaseClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/loggingDemofile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/pytestNotes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/test_Demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/test_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/test_fixtureDataDemo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/test_fixtureDemo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PytestDemo/test_loggingDemo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/DataTypes2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/ExceptionDemo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/FirstDemo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/ForLoop3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/FunctionDemo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/InheritanceDemo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/OOPSDemo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/ReadOperation9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/StringDemo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/WhileLoop4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/WriteOperation10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBasic/testFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uwLiLkMTm8tKpAIuyC1gBhVhKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fixtureDemo3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_fixtureDataDemo4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_fixtureDemo3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_loggingDemo5.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.FirstDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.FunctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.OOPS-Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.InheritanceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BrowserOperationDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChildWindowOperationDemo8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExceptionDemo11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindElementsDynamicDropdownFlightBookingDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FramesDemo9.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.LocatorsDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsExtensionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsExtensionDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsExtensionSite2Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsExtensionSite2Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsSite1Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LocatorsSite1Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MiscallanousDemo10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MouseActionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MouseActionDemo7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOPSDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReadWriteOperation9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortingTableDemo11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringDemo8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UiControlsDemo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WaitDemo6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WriteOperation10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e2eTesingShopDemo12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_demo1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Deadshadow/Document/DOCUMENTS/Course/2.Python Projects/PytestDemo/test_fixtureDataDemo4.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Deadshadow\Document\DOCUMENTS\Course\2. Python Projects\PythonBasic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.e2eTesingShopDemo12">
+    <configuration name="ExceptionDemo11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Deadshadow\Document\DOCUMENTS\Course\2. Python Projects\PythonBasic\ExceptionDemo11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FramesDemo9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyhtonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyhtonSelenium/FramesDemo9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MouseActionDemo7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyhtonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyhtonSelenium/MouseActionDemo7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="e2eTesingShopDemo12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyhtonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyhtonSelenium/e2eTesingShopDemo12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PytestDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PytestDemo/test_demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 virtualenv at D:\Deadshadow\Document\DOCUMENTS\Course\2.Python Projects\PycharmProjects" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;D:\\Deadshadow\\Document\\DOCUMENTS\\Course\\2.Python Projects\\PytestDemo\\test_demo1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_demo1.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 virtualenv at D:\Deadshadow\Document\DOCUMENTS\Course\2.Python Projects\PycharmProjects" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;D:\\Deadshadow\\Document\\DOCUMENTS\\Course\\2.Python Projects\\PytestDemo\\test_demo1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixtureDataDemo4.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="2. Python Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 virtualenv at D:\Deadshadow\Document\DOCUMENTS\Course\2.Python Projects\PycharmProjects" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;D:\\Deadshadow\\Document\\DOCUMENTS\\Course\\2.Python Projects\\PytestDemo\\test_fixtureDataDemo4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.e2eTesingShopDemo12" />
+      <item itemvalue="Python.ExceptionDemo11" />
+      <item itemvalue="Python.FramesDemo9" />
+      <item itemvalue="Python.MouseActionDemo7" />
+      <item itemvalue="Python.test_demo1" />
+      <item itemvalue="Python tests.pytest in test_demo1.py" />
+      <item itemvalue="Python tests.pytest in test_fixtureDataDemo4.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_demo1" />
+        <item itemvalue="Python.e2eTesingShopDemo12" />
+        <item itemvalue="Python.ExceptionDemo11" />
+        <item itemvalue="Python.FramesDemo9" />
+        <item itemvalue="Python.MouseActionDemo7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6621946d-425d-491b-aa4c-77cb69f891ae" name="Changes" comment="" />
+      <created>1743154815701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743154815701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

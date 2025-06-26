@@ -1,0 +1,8 @@
+2025-04-16 16:38:30,256 :: INFO :: PytestDemo.BaseClass :: Hello
+2025-04-16 16:38:30,256 :: INFO :: PytestDemo.BaseClass :: Viper
+2025-04-16 16:46:58,713 :: INFO :: PytestDemo.BaseClass :: Hello
+2025-04-16 16:46:58,713 :: INFO :: PytestDemo.BaseClass :: Viper
+2025-04-16 16:46:58,722 :: INFO :: PytestDemo.test_loggingDemo5 :: This is a test info message
+2025-04-16 16:46:58,722 :: WARNING :: PytestDemo.test_loggingDemo5 :: This is a test warning message
+2025-04-16 16:46:58,722 :: ERROR :: PytestDemo.test_loggingDemo5 :: This is a test error message
+2025-04-16 16:46:58,722 :: CRITICAL :: PytestDemo.test_loggingDemo5 :: This is a test critical message
